@@ -1,4 +1,4 @@
-# DynasmoDBProject
+# DynamoDBProject
 
 Hi All,
 
